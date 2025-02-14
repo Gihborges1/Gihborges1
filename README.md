@@ -3,11 +3,10 @@
 ---
 
 ## 🚀 Sobre mim  
-🎓 Engenheiro Mecatrônico | 📊 Analista de Dados | 💻 Futuro Especialista em Engenharia de Software
-🔧 Experiência com **projetos de automação e analise de dados**  
-📊 Habilidades em **Excel, Power BI, comunicação e desenvolvimento de sistemas**  
-📚 Aprimorando meus conhecimentos em **programação e engenharia de software**  
-
+🎓 **Engenheira Mecatrônica | 📊 Analista de Dados | 💻 Futura Especialista em Engenharia de Software**  
+🔧 Experiência com **projetos de automação, análise de dados e eficiência energética**  
+📊 Habilidades em **Power BI, SQL, Python, Excel e visualização de dados**  
+📚 Aprimorando meus conhecimentos em **desenvolvimento de software e engenharia de dados**  
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
