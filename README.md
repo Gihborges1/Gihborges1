@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 Sobre mim  
-🎓 Engenheiro Mecatrônico | 📊 Analista de Dados | 💻 Futuro Especialista em Engenharia de Software**  
+🎓 Engenheiro Mecatrônico | 📊 Analista de Dados | 💻 Futuro Especialista em Engenharia de Software
 🔧 Experiência com **projetos de automação e analise de dados**  
 📊 Habilidades em **Excel, Power BI, comunicação e desenvolvimento de sistemas**  
 📚 Aprimorando meus conhecimentos em **programação e engenharia de software**  
@@ -29,8 +29,8 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gihborges1&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gihborges1&theme=dark" />
 </p>
 
 ---
